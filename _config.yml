@@ -1,5 +1,9 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Yoko's Blog
+description: Development Note.
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-cayman
+# 下面放入工程的 _config.yml 文件中
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+#   - jekyll-remote-theme # add this line to the plugins list if you already have one
